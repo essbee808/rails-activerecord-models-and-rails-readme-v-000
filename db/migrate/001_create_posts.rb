@@ -1,2 +1,3 @@
-class CreatePosts < ActiveRecord::migration
+class CreatePosts < ActiveRecord::Migration
+  
 end
